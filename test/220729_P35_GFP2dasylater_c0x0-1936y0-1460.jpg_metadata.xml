@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<METADATA>
+  <Tags>
+    <AcquisitionTime>2022-07-29T01:13:48.0085292Z</AcquisitionTime>
+    <ImageScaling>&lt;ImageScaling&gt;
+  &lt;ImagePixelSize&gt;4.54,4.54&lt;/ImagePixelSize&gt;
+&lt;/ImageScaling&gt;</ImageScaling>
+    <DetectorState>&lt;CameraState&gt;
+  &lt;ApplyCameraProfile&gt;false&lt;/ApplyCameraProfile&gt;
+  &lt;ApplyImageOrientation&gt;true&lt;/ApplyImageOrientation&gt;
+  &lt;ExposureTime&gt;150000000&lt;/ExposureTime&gt;
+  &lt;Frame&gt;0,0,1936,1460&lt;/Frame&gt;
+  &lt;ImageOrientation&gt;3&lt;/ImageOrientation&gt;
+&lt;/CameraState&gt;</DetectorState>
+    <StageXPosition>+000000036157.6510</StageXPosition>
+    <StageYPosition>+000000032228.2610</StageYPosition>
+    <FocusPosition>+000000002287.5000</FocusPosition>
+    <RoiCenterOffsetX>+000000000000.0000</RoiCenterOffsetX>
+    <RoiCenterOffsetY>+000000000000.0000</RoiCenterOffsetY>
+  </Tags>
+  <DataSchema />
+  <AttachmentSchema />
+</METADATA>
